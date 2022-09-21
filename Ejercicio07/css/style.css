@@ -1,0 +1,23 @@
+
+.centrar {text-align: center;
+}
+.titulo1 {
+    color:rgb(32, 136, 45);
+    }
+
+.titulo2 {
+    color:rgb(216, 141, 29);
+    }
+.hrprincipal{
+    height: 1px;
+    background-color: rgb(255, 0, 0);
+}
+
+.cuadrado {
+margin: auto;
+border: solid 1px rgb(0, 0, 0);
+}
+
+.font {
+    font-family: 'Lucida Sans Unicode';
+}
